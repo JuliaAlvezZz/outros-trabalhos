@@ -1,0 +1,9 @@
+//padrão do arquivo para a máquina de turing
+quantidade de estados
+quantidade de simbolos do alfabeto (incluindo alfabeto auxiliar)
+lista de simbolos do alfabeto
+lista de quantidade de transições para cada estado
+lista de transições
+estado inicial
+quantidade de estados finais
+lista de estados finais
